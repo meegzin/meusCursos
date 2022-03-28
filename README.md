@@ -24,9 +24,9 @@
 
 ★ Arquitetura CSS: descomplicando os problemas
 
-# Cursos iniciados
+★ Flexbox: posicione elementos na tela
 
-★ Flexbox: posicione elementos na tela(31%, iniciado em 22/03)
+# Cursos iniciados
 
 ★ SEO: Princípio da otimização de sites(31%, iniciado em 17/03)
 
