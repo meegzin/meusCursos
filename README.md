@@ -16,6 +16,8 @@
 
 ★ HTML5 e CSS3 - Parte 4
 
+★ Curso React: desenvolvendo com JavaScript
+
 ★ JavaScript: Inferfaces e Herança em Orientação a Objetos
 
 ★ JavaScript: programando a Orientação a Objetos
@@ -38,7 +40,7 @@
 
 # Formações
 
-★ Formação React(4/16 passos finalizados)
+★ Formação React(7/16 passos finalizados)
 
 ★ Formação Front-End(8/16 passos finalizados)
 
